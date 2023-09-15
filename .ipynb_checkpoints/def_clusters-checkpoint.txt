@@ -1,0 +1,9 @@
+pour 6
+0 et 2 == autres
+1 et 3 == finances
+4 et 5 == indus
+
+pour 3
+0 == indus
+1 == finances
+2 == autres
